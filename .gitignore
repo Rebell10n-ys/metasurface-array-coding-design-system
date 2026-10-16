@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.slxc
+*.autosave
+slprj/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary logs & debug dumps
+*.log
+*.tmp
+temp/
+err.txt
+out.txt
+step*.txt
+
+# Local verification outputs
+test_verification.txt
+
+# Generated matrices (examples omitted from the uploaded repository)
+output/
+reports/
